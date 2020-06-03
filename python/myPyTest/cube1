@@ -1,0 +1,11 @@
+[DEFAULT]
+degrading_api=vpces=PUT
+degrading=
+
+
+[api]
+host=0.0.0.0
+port=19090
+debug=False
+wsgi=True
+
