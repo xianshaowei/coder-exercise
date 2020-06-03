@@ -1,1 +1,0 @@
-"{'monitor-adapter':['whale', '/home/cld/conf/custom-metrics-apiserver-deployment.yaml'], b:1 }"
